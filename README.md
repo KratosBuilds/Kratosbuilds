@@ -1,6 +1,4 @@
-## Hi there 👋🏾
-# 👋 Hi, I'm KratosBuilds!
-
+# 👋🏾 Hi, I'm KratosBuilds!
 As a Computer Science undergraduate with a strong foundation in web development and technical communication, I bring a blend of hands-on coding experience and analytical depth that makes me a strong candidate for internships.
 
 ## 🌐 Front-End & Web Development Experience
